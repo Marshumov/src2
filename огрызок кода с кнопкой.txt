@@ -1,0 +1,22 @@
+      <div class="content">
+   <div class="wrapper padding-vertical flex-center"> 
+<div class="background-blue padding-all">
+   <div class="first_screen_text background-blue"> 
+  <span><b> Получите полный каталог <br/> продукции в PDF на почту </b></span>
+    </div>
+  
+<div class="first_screen_catalog ">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="20.14860104878744 19.740427424112966 167.6547823079427 157.43192972819008" role="img" preserveAspectRatio="xMidYMid meet" class="book">
+    <g>
+        <path d="M100.394 30.644c-23.088-7.238-60.069-6.624-76.309 3.122a3.401 3.401 0 0 0-1.649 2.913v134.514c0 1.222.657 2.35 1.722 2.96a3.399 3.399 0 0 0 3.424-.047c16.321-9.794 52.894-6.032 71.922.312.289.093.589.126.891.143V30.644z"></path>
+        <path d="M183.867 33.767c-13.13-7.872-50.982-11.982-76.309-2.93v143.726c.301-.017.602-.05.89-.143 19.028-6.344 55.595-10.106 71.922-.312a3.368 3.368 0 0 0 1.748.485c.574 0 1.154-.146 1.676-.438a3.415 3.415 0 0 0 1.722-2.96V36.68a3.401 3.401 0 0 0-1.649-2.913z"></path>
+    </g>
+</svg>
+<a href="" >
+ПОЛУЧИТЬ КАТАЛОГ
+</a>
+</div>
+ 
+  </div>
+   </div>
+  </div>

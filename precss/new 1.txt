@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <title>Купить товарный бетон в Твери с доставкой</title>
+        <link rel="stylesheet" href="css/styles.css">
+	
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+    </head>
+    <body class="wrapper">
+<script>
+$(document).ready(function(){
+    $('#vkladki a').click(function(e) {
+        e.preventDefault();
+        $('#vkladki .vkladki_active').removeClass('vkladki_active');
+        $(this).addClass('vkladki_active');
+        var tab = $(this).attr('href');
+        $('.tablebeton').not(tab).css({'display':'none'});
+        $(tab).fadeIn(400);
+    });
+});
+</script>
+
+
+		<!-- САМ САЙТ --->
+      <section class="header">
+            <div class="fon_header">
+                
+               
+				
+            </div>
+        </section>	
+
+	
+		
+        <header class="mailn">
+            <div class="main_menu">
+             
+                <a href="#1" class="d111"><div class="menu_items">Новости</div></a>
+				<a href="#2" class="d111"><div class="menu_items">Бетон</div></a>
+				<a href="#2" class="d111"><div class="menu_items">Щебень</div></a>
+				<a href="#2" class="d111"><div class="menu_items">Песок</div></a>
+				<a href="#2" class="d111"><div class="menu_items">Расчитать объём и вес</div></a>
+				<a href="#2" class="d111"><div class="menu_items">Условия доставки</div></a>
+				<a href="#2" class="d111"><div class="menu_items">Смеси и добавки</div></a>
+
+
+            </div>
+        </header>
+	 <!-- КОНЕЦ ШАПКИ -->
+	 <!-- ПРАВАЯ  часть экрана -->
+<section class="telo">
+	<div class="levo">
+         <div class="telo_otstyp breadcrumbs">
+		
+
+			<a href="#" class="breadcrumbs_ssilka"> 
+			Главная 
+			</a>
+			&nbsp / &nbsp
+			  <a href="http://beton-tver.ru/kontakty-karta#menu" class="breadcrumbs_ssilka">
+			Продажа Бетона
+			</a>
+			
+		</div>	
+		<div class="telo_otstyp ytp">
+			<div class="ytp_items"> <img src="img/1.png">
+				<p>Собственное производство бетона</p>
+			</div>
+			<div class="ytp_items"> <img src="img/2.png">
+			<p>Доставка по всей Тверской области</p>
+			</div>
+			<div class="ytp_items"> <img src="img/3.png">
+			<p>Наличие сертификатов качества</p>
+			</div>
+			<div class="ytp_items"> <img src="img/4.png">
+			<p>Скидка 20% при заказе оптом</p>
+			</div>	
+		</div>	
+		<div class="pystota" ></div>
+		<div class="vkladki" id="#vkladki321"> 
+		<a class="vkladki_items vkladki_active" href="#tablebeton1">
+		<h3>Цены на бетон</h3>
+		
+		</a>
+		 <a class="vkladki_items" href="#tablebeton2">
+		<h3>Цены на Раствор строительный</h3>
+		
+		</a>
+		
+		
+		</div>
+		 <div class="tablebeton" id="tablebeton1">
+		<h2> Цена бетонной смеси от компании "КУБ" за 1 м3</h2>		
+		
+					<div class="telo_otstyp H2_text_pod">
+					
+			<p> Цены на бетон  в таблице указаны без учета стоимости доставки. Вы можете автоматически рассчитать суммарную стоимость в нашем калькуляторе после таблицы снизу</p>
+			</div>	
+			<!-- НАЧАЛО ТАБЛИЦЫ  -->
+							<!--
+				////////////////////////////////////////
+				////       Начало таблицы 1       ////
+				////////////////////////////////////////
+				-->
+		 <!-- ПРАВАЯ  СТРОКА ТАБЛИЦЫ -->
+		
+		<div  class="telo_otstyp table">
+	
+		
+			<a  class="table_items table_items_p">
+			  <img src="svg/question-circle-o.svg" class="icon-user">
+<p>Марка Бетона</p>
+<span> 
+Мы берём некий элемент (В нашем случае span), добавляем к нему атрибут с текстом, который будет показан и берём псевдоэлемент ::after. В content этого псевдоэлемента мы, пользуясь замечательнейшим свойством attr(), присваиваем нашей всплывающей подсказке текст и потом по :hover показываем его.
+Думаю, остальные свойства поня
+
+
+</span>
+			</a> 
+			<div  class="table_items table_items_k">
+Класс
+			</div> 
+		
+			<a  class="table_items table_items_p" >
+				<img src="svg/question-circle-o.svg"class="icon-user">
+<p>П2 (о.к. 5-9)</p>
+<span> 
+Мы берём некий элемент (В нашем случае span), добавляем к нему атрибут с текстом, который будет показан и берём псевдоэлемент ::after. В content этого псевдоэлемента мы, пользуясь замечательнейшим свойством attr(), присваиваем нашей всплывающей подсказке текст и потом по :hover показываем его.
+Думаю, остальные свойства поня
+
+
+</span>
+			</a> 
+			<a  class="table_items table_items_p">
+				<img src="svg/question-circle-o.svg"class="icon-user">
+ <p>П3 (о.к. 10-15)</p>
+ <span> 
+<b>Подвижность бетона</b> <br>
+Дальше идет какое-то описание и характеристика что это такое, но я не знаю что написать, пусть просто будет текст. Копирайтер пришлет - сделаю.
+
+
+</span>
+			</a> 		
+			<a  class="table_items table_items_p">
+			 <img src="svg/question-circle-o.svg"class="icon-user">
+ <span> 
+Мы берём некий элемент (В нашем случае span), добавляем к нему атрибут с текстом, который будет показан и берём псевдоэлемент ::after. В content этого псевдоэлемента мы, пользуясь замечательнейшим свойством attr(), присваиваем нашей всплывающей подсказке текст и потом по :hover показываем его.
+Думаю, остальные свойства поня
+
+
+</span>			 
+ <p>П4 (о.к. 16-20)</p>
+			</a> 
+		
+		</div> 
+			 <!-- ВТОРАЯ  СТРОКА ТАБЛИЦЫ -->
+		<div  class="telo_otstyp table">
+			<div  class="table_items table_items_p">
+М 100
+			</div> 
+			<div  class="table_items table_items_k">
+В 7,5
+			</div> 	
+			<div  class="table_items table_items_p">
+2 500  руб
+			</div> 
+			<div  class="table_items table_items_p">
+2 550  руб
+			</div> 		
+			<div  class="table_items table_items_p">
+ 
+			</div> 
+		
+		</div> 		
+		<!---ТРЕТЬЯ СТРОКА ТАБЛИЦЫ -->
+		<div  class="telo_otstyp table">
+			<div  class="table_items table_items_p">
+М 150
+			</div> 
+			<div  class="table_items table_items_k">
+В 12,5
+			</div> 			
+			<div  class="table_items table_items_p">
+2 690  руб
+			</div> 
+			<div  class="table_items table_items_p">
+2 750  руб
+			</div> 		
+			<div  class="table_items table_items_p">
+ 
+			</div> 
+		
+		</div> 				
+		<!---ЧЕТВЕРТАЯ СТРОКА ТАБЛИЦЫ -->
+		<div  class="telo_otstyp table">
+			<div  class="table_items table_items_p">
+М 200
+			</div> 
+			<div  class="table_items table_items_k">
+В 15
+			</div> 
+			
+			<div  class="table_items table_items_p">
+2 850  руб
+			</div> 
+			<div  class="table_items table_items_p">
+2 950  руб
+			</div> 		
+			<div  class="table_items table_items_p">
+3 000  руб 
+			</div> 
+		
+		</div> 				
+		<!---Пятая СТРОКА ТАБЛИЦЫ -->
+		<div  class="telo_otstyp table">
+			<div  class="table_items table_items_p">
+М 250
+			</div> 
+			<div  class="table_items table_items_k">
+В 20
+			</div> 
+	
+			<div  class="table_items table_items_p">
+3 000 руб
+			</div> 
+			<div  class="table_items table_items_p">
+2 220  руб
+			</div> 		
+			<div  class="table_items table_items_p">
+2 270  руб 
+			</div> 
+		
+		</div> 								
+		<!---Шестая СТРОКА ТАБЛИЦЫ -->
+		<div  class="telo_otstyp table">
+			<div  class="table_items table_items_p">
+М 300
+			</div> 
+			<div  class="table_items table_items_k">
+В 22.5
+			</div> 
+		
+			<div  class="table_items table_items_p">
+3 150 руб
+			</div> 
+			<div  class="table_items table_items_p">
+3 370 руб
+			</div> 		
+			<div  class="table_items table_items_p">
+3 420 руб
+			</div> 
+		
+		</div> 				
+			
+		<!---7 СТРОКА ТАБЛИЦЫ -->
+		<div  class="telo_otstyp table">
+			<div  class="table_items table_items_p">
+М 350
+			</div> 
+			<div  class="table_items table_items_k">
+В 25
+			</div> 
+			
+			<div  class="table_items table_items_p">
+3 370 руб
+			</div> 
+			<div  class="table_items table_items_p">
+3 510 руб
+			</div> 		
+			<div  class="table_items table_items_p">
+3 560 руб
+			</div> 
+		
+		</div> 				
+			
+		<!---ВОСЬМАЯ СТРОКА ТАБЛИЦЫ -->
+		<div  class="telo_otstyp table">
+			<div  class="table_items table_items_p">
+М 400
+			</div> 
+			<div  class="table_items table_items_k">
+В 30
+			</div> 
+			
+			<div  class="table_items table_items_p">
+3 650 руб
+			</div> 
+			<div  class="table_items table_items_p">
+3 820 руб
+			</div> 		
+			<div  class="table_items table_items_p">
+3 900 руб
+			</div> 
+		
+		</div> 				
+		<!---ДЕВЯТАЯ СТРОКА ТАБЛИЦЫ -->
+		<div  class="telo_otstyp table">
+			<div  class="table_items table_items_p">
+М 450
+			</div> 
+			<div  class="table_items table_items_k">
+В 35
+			</div> 
+			
+			<div  class="table_items table_items_p">
+3 850 руб
+			</div> 
+			<div  class="table_items table_items_p">
+4 050 руб
+			</div> 		
+			<div  class="table_items table_items_p">
+4 200 руб
+			</div> 
+		
+		</div> 				
+	<!-- КОНЕЦ ТАБЛИЦЫ  -->		
+	
+<div class="telo_otstyp post_table">		
+<div class="post_table_levo">	
+ 
+			<p><b>Материалы изготовления бетона:</b> </p>		
+		
+
+			<p>Щебень гравийный 5*20  М1000-1100 </p>		
+
+
+			<p>Цемент Портланд Цемент М500</p>		
+
+			<p>Песок МК 2-2,5мм </p>		
+		
+
+</div>	
+<!-- форма заявки  -->	
+
+</div>
+</div>
+	<!-- форма заявки  -->	
+
+	
+					<!--
+				////////////////////////////////////////
+				////       Начало таблицы2         ////
+				////////////////////////////////////////
+				-->
+				 <div class="tablebeton" id="tablebeton2">
+			<h2> Цена за 1 м3 на раствор строительный ГОСТ 280013-98 </h2>	
+					<div class="telo_otstyp H2_text_pod">
+					
+			<p> Цены на бетон  в таблице указаны без учета стоимости доставки. Вы можете автоматически рассчитать суммарную стоимость в нашем калькуляторе после таблицы снизу</p>
+			</div>			
+			<!-- НАЧАЛО ТАБЛИЦЫ  -->
+		
+		<!-- ПРАВАЯ  СТРОКА ТАБЛИЦЫ -->
+		<div  class="telo_otstyp table">
+		 
+			<a  class="table_items table_items_p">
+			  <img src="svg/question-circle-o.svg" class="icon-user">
+<p>Марка Бетона</p>
+<span> 
+Мы берём некий элемент (В нашем случае span), добавляем к нему атрибут с текстом, который будет показан и берём псевдоэлемент ::after. В content этого псевдоэлемента мы, пользуясь замечательнейшим свойством attr(), присваиваем нашей всплывающей подсказке текст и потом по :hover показываем его.
+Думаю, остальные свойства поня
+
+
+</span>
+			</a> 
+			<div  class="table_items table_items_k">
+Класс
+			</div> 
+		
+			<a  class="table_items table_items_p" >
+				<img src="svg/question-circle-o.svg"class="icon-user">
+<p>Пескобетон</p>
+<span> 
+Мы берём некий элемент (В нашем случае span), добавляем к нему атрибут с текстом, который будет показан и берём псевдоэлемент ::after. В content этого псевдоэлемента мы, пользуясь замечательнейшим свойством attr(), присваиваем нашей всплывающей подсказке текст и потом по :hover показываем его.
+Думаю, остальные свойства поня
+
+
+</span>
+			</a> 
+			<div class="table_pystota"> </div>
+			<a  class="table_items table_items_p">
+				<img src="svg/question-circle-o.svg"class="icon-user">
+ <p>Марка бетона</p>
+ <span> 
+<b>Подвижность бетона</b> <br>
+Дальше идет какое-то описание и характеристика что это такое, но я не знаю что написать, пусть просто будет текст. Копирайтер пришлет - сделаю.
+
+
+</span>
+			</a> 
+			<div  class="table_items table_items_k">
+Класс
+			</div> 			
+			<a  class="table_items table_items_p">
+			 <img src="svg/question-circle-o.svg"class="icon-user">
+ <span> 
+Мы берём некий элемент (В нашем случае span), добавляем к нему атрибут с текстом, который будет показан и берём псевдоэлемент ::after. В content этого псевдоэлемента мы, пользуясь замечательнейшим свойством attr(), присваиваем нашей всплывающей подсказке текст и потом по :hover показываем его.
+Думаю, остальные свойства поня
+
+
+</span>			 
+ <p>Пескобетон</p>
+			</a> 
+		
+		</div> 
+		
+		<!---ВТОРАЯ СТРОКА ТАБЛИЦЫ -->	
+		<div  class="telo_otstyp table">
+			<a href="#modal_PS" id="" title="Перейти к покупке Растрова Строительного М50 В 3,5"  class="table_items_navedenie table_items table_items_p">
+М 50
+			</a> 
+			<a href="#modal_PS" id=""   class="table_items table_items_k">
+В 3,5
+			</a> 	
+			<a href="#modal_PS" id="" title="Перейти к покупке Растрова Строительного М50 В 3,5"  class="table_items_navedenie table_items table_items_p">
+1 900  руб
+			</a>
+			
+				<div class="table_pystota"> </div>
+			
+			<a href="#modal_PS" id=""  title="Перейти к покупке Растрова Строительного М200 В 15"  class="table_items_navedenie table_items table_items_p">
+М 200
+			</a> 		
+			<a href="#modal_PS" id=""   class="table_items table_items_k">
+В 15
+			</a> 
+			<a href="#modal_PS" id="" title="Перейти к покупке Растрова Строительного М200 В 15"   class="table_items_navedenie table_items table_items_p">
+ 2850 руб
+			</a> 			
+		
+		</div> 		
+		
+				<!---ТРЕТЬЯ СТРОКА ТАБЛИЦЫ -->	
+		<div  class="telo_otstyp table">
+			<a href="#modal_PS" id="" title="Перейти к покупке Растрова Строительного М75 В 5" class="table_items_navedenie table_items table_items_p">
+М 75
+			</a> 
+			<a href="#modal_PS" id=""   class="table_items table_items_k">
+В 5
+			</a> 	
+			<a href="#modal_PS" id="" title="Перейти к покупке Растрова Строительного М75 В 5" class="table_items_navedenie table_items table_items_p">
+2 150  руб
+			</a>
+			
+				<div class="table_pystota"> </div>
+			
+			<a href="#modal_PS" id="" title="Перейти к покупке Растрова Строительного М250 В 20"  class="table_items_navedenie table_items table_items_p">
+М 250
+			</a> 		
+			<a href="#modal_PS" id=""   class="table_items table_items_k">
+В 20
+			</a> 
+			<a href="#modal_PS" id="" title="Перейти к покупке Растрова Строительного М250 В 20"   class="table_items_navedenie table_items table_items_p">
+ 3400 руб
+			</a> 			
+		
+		</div>  
+				
+				<!---Четвертая СТРОКА ТАБЛИЦЫ -->	
+		<div  class="telo_otstyp table">
+		
+			<a href="#modal_PS" id="" class="table_items table_items_p">
+М 100
+			</a> 
+			<a href="#modal_PS" id=""   class="table_items table_items_k">
+В 7,5
+			</a> 	
+			<a href="#modal_PS" id=""  class="table_items table_items_p">
+2 350  руб
+			</a>
+			
+				<div class="table_pystota"> </div>
+			
+			<a href="#modal_PS" id=""   class="table_items table_items_p">
+М 300
+			</a> 		
+			<a href="#modal_PS" id=""   class="table_items table_items_k">
+В 22,5
+			</a> 
+			<a href="#modal_PS" id=""   class="table_items table_items_p">
+ 3550 руб
+			</a> 			
+		
+		</div> 		 
+				
+				<!---Пятая СТРОКА ТАБЛИЦЫ -->	
+			<div  class="telo_otstyp table">
+
+			<a href="#modal_PS" id="" class="table_items table_items_p">
+М 150
+			</a> 
+			<a href="#modal_PS" id=""   class="table_items table_items_k">
+В 12,5
+			</a> 	
+			<a href="#modal_PS" id=""  class="table_items table_items_p">
+2 650  руб
+			</a>
+			
+				<div class="table_pystota"> </div>
+			
+			<a href="#modal_PS" id=""   class="table_items table_items_p hidden">
+
+			</a> 		
+			<a href="#modal_PS" id=""   class="table_items table_items_k hidden">
+
+			</a> 
+			<a href="#modal_PS" id=""   class="table_items table_items_p hidden">
+ 
+			</a> 			
+		
+		</div>
+			<div class="polnota"></div>
+							<!--
+				////////////////////////////////////////
+				////       Конец таблицы 2         ////
+				////////////////////////////////////////
+				-->
+			</div>	
+				
+
+
+			
+			
+			
+			
+						</div>	<!--
+				////////////////////////////////////////
+				////      Конец левой части       ////
+				////////////////////////////////////////
+				-->
+			
+			<!-- ЛЕВАЯ часть экрана --></div> <!-- ЛЕВАЯ часть экрана -->
+						<!-- ЛЕВАЯ часть экрана -->
+			<div class="pravo">
+			
+		<!-- ЛЕВАЯ часть экрана -->
+			 <!-- Общий столбец -->
+		
+            <h3 class="telo_otstyp">
+			  Как быстро рассчитать объем и вес</h3>
+		
+		
+			<div class="telo_otstyp block_menu_vertical"> 
+				<div class="menu_vertical">Сколько бетона нужно на фундамент</div>
+				<div class="menu_vertical">Быстрый расчет объема и веса песка</div>
+				<div class="menu_vertical">Быстрый расчет объема и веса щебня</div>
+			
+			</div>
+			
+						<h3 class="telo_otstyp">
+				  Как выбрать бетон</h3>
+			
+			
+			<div class="telo_otstyp block_menu_vertical"> 
+				<div class="menu_vertical">1 куб бетона пропорции материалов</div>
+				<div class="menu_vertical">Как производится бетонный раствор</div>
+				<div class="menu_vertical">Бетон М200 характеристики</div>
+			
+			</div>
+		
+		
+		
+		
+		<!-- Закрытие нижней часть экрана -->
+		</div>
+		</section>
+		<div class="pystota"></div>
+		<section class="telo_2">
+						<h2> Калькулятор расчета стоимости бетона с доставкой</h2>	
+<div class="culc">
+<div class="filters-block four_cloumn"></div>
+<div class="product-list"></div>
+
+<div class="total-sum"></div>
+
+
+
+<div  class="parent four_cloumn" id="parent"></div>
+
+
+<div class="four_cloumn" >
+<p>Введите объем</p>
+<input type="text"  placeholder="Объем бетона в м3"  id="forma1">
+
+</div>
+<div class="four_cloumn" >
+<p>Расстояние от Твери</p>
+<input type="text" placeholder="Расстояние в км"  id="forma2">  <!--oninput="mult()" -->
+
+</div>
+<div class="four_cloumn" >
+<button class="calc-total" disabled="disabled">Рассчитать</button></div>	
+<div class="four_cloumn" >
+<p>Цена бетона:</p>
+<input  class="m3" id="result">
+
+</div>
+<div class="four_cloumn" >
+<p>Цена с доставкой</p>
+<input  class="forma3" id="forma3">
+
+</div>
+
+</div>	
+
+				
+		
+		</section>
+							
+	
+		
+<script> 
+var
+
+CURRENCY = ' руб.',
+
+works={
+
+	title:'<p>Марка бетона:</p>',
+	data:{
+		1:'М100',
+		2:'М150',
+		3:'М200',
+		4:'М250',
+		5:'М300',
+		6:'М350',
+		7:'М400',
+		8:'М550'
+		
+	},
+	
+},
+
+params={
+
+	
+
+	len:{
+		title:'<p>Выберете подвижность</p>',
+		data:{
+			1:'П2',
+			2:'П3',
+			3:'П4'
+			
+		}
+	}
+},
+
+offers={
+
+	1:{
+		price:300,
+		params:{
+			len:{
+				1:2500,
+				2:2150,
+				3:1500
+			},
+			
+		}
+	},
+	
+	2:{
+		price:2500,
+		params:{
+			len:{
+				1:1200,
+				2:1300,
+				3:1700
+			},
+	
+		}
+	},
+	
+	3:{
+		price:1900,
+		params:{
+			len:{
+				1:1200,
+				2:1780,
+				3:1499
+			},
+
+		}
+	},
+	
+	4:{
+		price:1500,
+		params:{
+			len:{
+				1:1400,
+				2:1500,
+				3:1500
+			},
+
+		}
+	},
+		5:{
+		price:0,
+		params:{
+			len:{
+				1:2500,
+				2:2150,
+				3:1500
+			},
+			
+		}
+	},
+		6:{
+		price:0,
+		params:{
+			len:{
+				1:2500,
+				2:2150,
+				3:1500
+			},
+			
+		}
+	},
+		7:{
+		price:0,
+		params:{
+			len:{
+				1:2500,
+				2:2150,
+				3:1500
+			},
+			
+		}
+	},
+		8:{
+		price:0,
+		params:{
+			len:{
+				1:2500,
+				2:2150,
+				3:1500
+			},
+			
+		}
+	}
+}
+
+
+total=0,prodList=calcButton=null;
+
+function resetList(el){
+	v=el.querySelectorAll('select');
+	for(var i=0;i<v.length;i++)
+		v[i].selectedIndex=-1;
+}
+<!--
+function renderParams(ev){
+
+	if(ev.target.nodeName!='SELECT') return;
+	var v=ev.target.value;
+	if(!(v in offers)) return;
+	var offer=offers[v],html=[];
+
+	total=offer.price;
+
+
+	
+for(v in offer.params) {
+		var h=[];
+		for(var p in offer.params[v])
+			 h.push(renderOption(offer.params[v][p],params[v].data[p]
+                +' + '+offer.params[v][p]+CURRENCY));
+		document.getElementById('parent').textContenttxt = ('<label>'+params[v].title+'</label>'
+			+'<select class="select_pod">'+h.join('')+'</select>');
+
+	
+	
+		
+		
+	
+
+			<!--	html.push(znachenie); -->
+	}
+	
+	prodList.innerHTML=html.join('');
+
+	
+	calcButton.disabled=false;
+}
+<!--
+
+-->
+
+
+function renderOption(v,t){
+	return '<option  value="'+v+'">'+t+'</option>';
+}
+
+function renderOptions(obj){
+	var html=[];
+	for(var p in obj)
+		html.push(renderOption(p,obj[p]));
+	return html.join('');
+}
+
+function renderWorks(classname) {
+	var el=document.querySelector('.'+classname);
+	el.innerHTML='<label class="label">'+works.title+'<label>'
+		+'<select class="label_calc">'+renderOptions(works.data)+'</select>';
+	resetList(el);
+	el.addEventListener('change',renderParams);
+}
+ 
+	 <!--  var result = document.getElementById('result').value; -->
+ 
+
+function renderTotal(){
+ var second = document.getElementById('forma2').value;
+ if (second<1) {
+ second=1;
+ }
+ var first = document.getElementById('forma1').value; 
+  if (first<1) {
+ first=1;
+ }
+	v=prodList.querySelectorAll('select');
+	for(var i=t=0;i<v.length;i++)
+		t+= +v[i].value;
+		document.getElementById('forma3').value = first * second;
+	<!--document.querySelector('.total-sum').value=((((total+t) * first) * second)+CURRENCY); -->
+	 document.querySelector('.total-sum').textContent=(total+t)+CURRENCY;
+
+	 
+}
+</script> 
+<script> 
+prodList=document.querySelector('.product-list');
+calcButton=document.querySelector('.calc-total');
+calcButton.addEventListener('click',renderTotal);
+renderWorks('filters-block');
+
+</script> 
+
+<script>
+$(document).ready(function(){
+    $('.vkladki a').click(function(e) {
+        e.preventDefault();
+        $('.vkladki .vkladki_active').removeClass('vkladki_active');
+        $(this).addClass('vkladki_active');
+        var tab = $(this).attr('href');
+        $('.tablebeton').not(tab).css({'display':'none'});
+        $(tab).fadeIn(400);
+    });
+});
+</script>
+		
+
+    </body>
+	
+</html>
